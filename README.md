@@ -62,14 +62,14 @@
 </details>
 <br>
 <p align="center">
-  <a href="https://github.com/Guovin/iptv-api/releases/latest">
-    <img src="https://img.shields.io/github/v/release/guovin/iptv-api" />
+  <a href="https://github.com/gitshang5018/iptv-api/releases/latest">
+    <img src="https://img.shields.io/github/v/release/gitshang5018/iptv-api" />
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
   </a>
-  <a href="https://github.com/Guovin/iptv-api/releases/latest">
-    <img src="https://img.shields.io/github/downloads/guovin/iptv-api/total" />
+  <a href="https://github.com/gitshang5018/iptv-api/releases/latest">
+    <img src="https://img.shields.io/github/downloads/gitshang5018/iptv-api/total" />
   </a>
   <a href="https://hub.docker.com/repository/docker/guovern/iptv-api">
     <img src="https://img.shields.io/docker/pulls/guovern/iptv-api?label=docker:iptv-api" />
@@ -80,8 +80,8 @@
   <a href="https://hub.docker.com/repository/docker/guovern/tv-driver">
     <img src="https://img.shields.io/docker/pulls/guovern/tv-driver?label=docker:driver" />
   </a>
-  <a href="https://github.com/Guovin/iptv-api/fork">
-    <img src="https://img.shields.io/github/forks/guovin/iptv-api" />
+  <a href="https://github.com/gitshang5018/iptv-api/fork">
+    <img src="https://img.shields.io/github/forks/gitshang5018/iptv-api" />
   </a>
 </p>
 
@@ -113,17 +113,17 @@
 - 接口源：
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://ghp.ci/raw.githubusercontent.com/gitshang5018/iptv-api/gd/output/result.m3u
 ```
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://ghp.ci/raw.githubusercontent.com/gitshang5018/iptv-api/gd/output/result.txt
 ```
 
 - 数据源：
 
 ```bash
-https://ghp.ci/raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
+https://ghp.ci/raw.githubusercontent.com/gitshang5018/iptv-api/gd/source.json
 ```
 
 ## 配置
@@ -160,7 +160,7 @@ pipenv run service
 
 ### 方式三：GUI 软件
 
-1. 下载[IPTV-API 更新软件](https://github.com/Guovin/iptv-api/releases)，打开软件，点击更新，即可完成更新
+1. 下载[IPTV-API 更新软件](https://github.com/gitshang5018/iptv-api/releases)，打开软件，点击更新，即可完成更新
 
 2. 或者在项目目录下运行以下命令，即可打开 GUI 软件：
 
@@ -252,4 +252,4 @@ docker run -v /etc/docker/config:/iptv-api-lite/config -v /etc/docker/output:/ip
 
 ## 许可证
 
-[MIT](./LICENSE) License &copy; 2024-PRESENT [Govin](https://github.com/guovin)
+[MIT](./LICENSE) License &copy; 2024-PRESENT [Govin](https://github.com/gitshang5018)
