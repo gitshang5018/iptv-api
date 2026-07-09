@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260708225359 +0800">
+<tv date="20260709122426 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -14190,6 +14190,411 @@
 	<channel id="CCTV-16">
 		<display-name lang="zh">CCTV-16</display-name>
 	</channel>
+	<programme channel="CCTV-16" start="20260703003500 +0800" stop="20260703013500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年艺术体操世界杯 塔什干站 2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703013500 +0800" stop="20260703023500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 冰壶混双决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703023500 +0800" stop="20260703040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 冰球男子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703040000 +0800" stop="20260703053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 半决赛5</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703053000 +0800" stop="20260703063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 高山滑雪女子团体全能</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703063000 +0800" stop="20260703073000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 自由式滑雪男子U型场地技巧决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703073000 +0800" stop="20260703090000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年欧洲乒乓球俱乐部冠军联赛 决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703090000 +0800" stop="20260703103000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 拉巴特站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703103000 +0800" stop="20260703120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 总决赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703120000 +0800" stop="20260703122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-41</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703122000 +0800" stop="20260703135000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/16决赛5</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703135000 +0800" stop="20260703151000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 菲律宾站 日本队-意大利队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703151000 +0800" stop="20260703153000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-42</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703153000 +0800" stop="20260703163000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年全国举重锦标赛 女子比赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703163000 +0800" stop="20260703175700 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年温布尔登网球锦标赛 第二轮 录播2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703175700 +0800" stop="20260703185500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界泳联跳水世界杯总决赛 3</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703185500 +0800" stop="20260703195500 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-女子单项决赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703195500 +0800" stop="20260703201500 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-43</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703201500 +0800" stop="20260703214000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/16决赛7</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703214000 +0800" stop="20260703230000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 南京站 中国队-波兰队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260703230000 +0800" stop="20260704000000 +0800">
+		<title lang="zh">2026年国际体联蹦床世界杯-阿罗萨站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704000000 +0800" stop="20260704010000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年体操世界杯 奥西耶克站 1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704010000 +0800" stop="20260704023000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 冰壶男子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704023000 +0800" stop="20260704040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界花样滑冰锦标赛 男子单人滑</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704040000 +0800" stop="20260704053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 半决赛6</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704053000 +0800" stop="20260704063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 高山滑雪男子团体全能</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704063000 +0800" stop="20260704073000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 单板滑雪男子U型场地技巧决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704073000 +0800" stop="20260704080000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年射箭世界杯 中国站1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704080000 +0800" stop="20260704090000 +0800">
+		<title lang="zh">2026年世界艺术体操挑战杯系列赛-北京站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704090000 +0800" stop="20260704103000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 斯德哥尔摩站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704103000 +0800" stop="20260704120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 总决赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704120000 +0800" stop="20260704122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-45</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704122000 +0800" stop="20260704134500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/16决赛9</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704134500 +0800" stop="20260704150000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 南京站 中国队-泰国队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704150000 +0800" stop="20260704155700 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-男子单项决赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704155700 +0800" stop="20260704161500 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-46</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704161500 +0800" stop="20260704174500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年温布尔登网球锦标赛 第三轮 录播1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704174500 +0800" stop="20260704184200 +0800">
+		<title lang="zh">2026年国际体联蹦床世界杯-阿罗萨站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704184200 +0800" stop="20260704191000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年国际篮联三人篮球世界杯 女子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704191000 +0800" stop="20260704193000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-47</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704193000 +0800" stop="20260704214500 +0800">
+		<title lang="zh">2026中国足球超级联赛-第17轮 北京国安-山东泰山</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704214500 +0800" stop="20260704231000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界男排联赛 临沂站 中国队-斯洛文尼亚队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260704231000 +0800" stop="20260705000000 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-女子单项决赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705001000 +0800" stop="20260705011000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年亚洲羽毛球锦标赛 1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705011000 +0800" stop="20260705023500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 冰壶女子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705023500 +0800" stop="20260705040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界花样滑冰锦标赛 女子单人滑</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705040000 +0800" stop="20260705052500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 半决赛7</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705052500 +0800" stop="20260705055500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 男子钢架雪车</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705055500 +0800" stop="20260705061500 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-43</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705061500 +0800" stop="20260705071500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 单板滑雪男子坡面障碍技巧决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705071500 +0800" stop="20260705074500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年射箭世界杯 中国站2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705074500 +0800" stop="20260705090500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 南京站 中国队-波兰队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705090500 +0800" stop="20260705103500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 巴黎站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705103500 +0800" stop="20260705120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 总决赛3</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705120000 +0800" stop="20260705122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-45</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705122000 +0800" stop="20260705135000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/16决赛10</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705135000 +0800" stop="20260705152000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界男排联赛 临沂站 斯洛文尼亚队-波兰队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705152000 +0800" stop="20260705154000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-46</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705154000 +0800" stop="20260705164000 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-女子单项决赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705164000 +0800" stop="20260705180200 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年温布尔登网球锦标赛 第三轮 录播2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705180200 +0800" stop="20260705193000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-WTT美国大满贯2026 单打1/4决赛 录播</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705193000 +0800" stop="20260705200000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年国际篮联三人篮球世界杯 男子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705200000 +0800" stop="20260705202000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-41</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705202000 +0800" stop="20260705214500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/16决赛12</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705214500 +0800" stop="20260705231000 +0800">
+		<title lang="zh">2027年国际篮联世界杯预选赛-中国队-日本队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260705231000 +0800" stop="20260706000000 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-男子单项决赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706001000 +0800" stop="20260706011000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年亚洲羽毛球锦标赛 2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706011000 +0800" stop="20260706023500 +0800">
+		<title lang="zh">2026年国际冰联男子冰球世界锦标赛-顶级组 决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706023500 +0800" stop="20260706040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界花样滑冰锦标赛 冰舞</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706040000 +0800" stop="20260706053000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 总决赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706053000 +0800" stop="20260706060000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 滑雪登山混合接力</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706060000 +0800" stop="20260706062000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-38</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706062000 +0800" stop="20260706071000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 自由式滑雪男子障碍追逐决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706071000 +0800" stop="20260706081000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年全国举重锦标赛 男子比赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706081000 +0800" stop="20260706091000 +0800">
+		<title lang="zh">2026年国际体联蹦床世界杯-阿罗萨站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706091000 +0800" stop="20260706103000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 菲律宾站 日本队-意大利队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706103000 +0800" stop="20260706120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 拉巴特站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706120000 +0800" stop="20260706122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-39</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706122000 +0800" stop="20260706134500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/16决赛 瑞士队-阿尔及利亚队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706134500 +0800" stop="20260706151000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/16决赛 哥伦比亚队-加纳队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706151000 +0800" stop="20260706161000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界泳联跳水世界杯总决赛 1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706161000 +0800" stop="20260706163000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-40</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706163000 +0800" stop="20260706180000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年温布尔登网球锦标赛 第四轮 录播1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706180000 +0800" stop="20260706192500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界男排联赛 临沂站 斯洛文尼亚队-波兰队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706192500 +0800" stop="20260706195500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年国际篮联三人篮球世界杯 女子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706195500 +0800" stop="20260706201500 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-41</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706201500 +0800" stop="20260706214500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界乒乓球团体锦标赛 男团决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706214500 +0800" stop="20260706224500 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-女子单项决赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260706224500 +0800" stop="20260707000000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季欧洲篮球联赛 半决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707001000 +0800" stop="20260707013500 +0800">
+		<title lang="zh">2026年国际冰联男子冰球世界锦标赛-顶级组 决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707013500 +0800" stop="20260707023500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年亚洲羽毛球锦标赛 1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707023500 +0800" stop="20260707040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 冰壶女子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707040000 +0800" stop="20260707052500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 总决赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707052500 +0800" stop="20260707055500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 女子单人雪车</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707055500 +0800" stop="20260707064500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 冬季两项混合4X6公里接力决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707064500 +0800" stop="20260707074500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年全国举重锦标赛 男子比赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707074500 +0800" stop="20260707091000 +0800">
+		<title lang="zh">2027年国际篮联世界杯预选赛-中国队-日本队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707091000 +0800" stop="20260707103000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 菲律宾站 美国队-意大利队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707103000 +0800" stop="20260707120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 罗马站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707120000 +0800" stop="20260707122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-42</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707122000 +0800" stop="20260707134500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界男排联赛 波兰站 中国队-比利时队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707134500 +0800" stop="20260707151000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/8决赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707151000 +0800" stop="20260707161000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界泳联跳水世界杯总决赛 2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707161000 +0800" stop="20260707163000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-43</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707163000 +0800" stop="20260707175500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界乒乓球团体锦标赛 女团决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707175500 +0800" stop="20260707192500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年温布尔登网球锦标赛 第四轮 录播2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707192500 +0800" stop="20260707195500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年国际篮联三人篮球世界杯 男子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707195500 +0800" stop="20260707201200 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-47</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707201200 +0800" stop="20260707203000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-精彩一刻-2026年体操世界杯奥西耶克站 中国队获2金</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707203000 +0800" stop="20260707215500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/8决赛2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707215500 +0800" stop="20260707225200 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-男子单项决赛1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260707225200 +0800" stop="20260708000000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季欧洲篮球联赛 决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708001500 +0800" stop="20260708014000 +0800">
+		<title lang="zh">2026年国际冰联男子冰球世界锦标赛-顶级组 半决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708014000 +0800" stop="20260708023700 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年亚洲羽毛球锦标赛 2</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708023700 +0800" stop="20260708040000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 冰壶男子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708040000 +0800" stop="20260708052500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025/2026赛季中国男子篮球职业联赛 总决赛3</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708052500 +0800" stop="20260708061500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 自由式滑雪女子障碍追逐决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708061500 +0800" stop="20260708071500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年米兰科尔蒂纳冬奥会 单板滑雪男子大跳台决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708071500 +0800" stop="20260708074500 +0800">
+		<title lang="zh">2026年射箭世界杯-土耳其站1</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708074500 +0800" stop="20260708090500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界女排联赛 土耳其站 中国队-巴西队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708090500 +0800" stop="20260708103000 +0800">
+		<title lang="zh">2026年国际冰联男子冰球世界锦标赛-顶级组 决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708103000 +0800" stop="20260708120000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界田联钻石联赛 斯德哥尔摩站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708120000 +0800" stop="20260708122000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-36</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708122000 +0800" stop="20260708134500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界男排联赛 波兰站 中国队-阿根廷队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708134500 +0800" stop="20260708151000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/8决赛 巴西队-挪威队(4K)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708151000 +0800" stop="20260708160700 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年世界泳联跳水世界杯总决赛 3</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708160700 +0800" stop="20260708162500 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-37</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708162500 +0800" stop="20260708172000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-WTT美国大满贯2026 比赛1(4K)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708172000 +0800" stop="20260708174500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌1(4K)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708174500 +0800" stop="20260708191500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026年温布尔登网球锦标赛 1/4决赛 录播1(4K)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708191500 +0800" stop="20260708193000 +0800">
+		<title lang="zh">艺术里的奥林匹克2026-46</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708193000 +0800" stop="20260708201500 +0800">
+		<title lang="zh">2026中国足协中国之队·银川国际U17足球锦标赛-中国队-坦桑尼亚队</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708201500 +0800" stop="20260708214000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/8决赛4</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708214000 +0800" stop="20260708230500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2026世界杯 1/8决赛 墨西哥队-英格兰队(4K)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260708230500 +0800" stop="20260709000000 +0800">
+		<title lang="zh">2026年亚洲体操锦标赛-女子单项决赛2</title>
+	</programme>
 	<programme channel="CCTV-16" start="20260709000500 +0800" stop="20260709010500 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2026年亚洲羽毛球锦标赛 3</title>
 	</programme>
@@ -14322,8 +14727,50 @@
 	<programme channel="CCTV-16" start="20260710203000 +0800" stop="20260710223500 +0800">
 		<title lang="zh">2026年世界女排联赛 中国香港站-比利时队-意大利队</title>
 	</programme>
-	<programme channel="CCTV-16" start="20260710223500 +0800" stop="20260711000500 +0800">
+	<programme channel="CCTV-16" start="20260710223500 +0800" stop="20260711000000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-2026年欧洲乒乓球俱乐部冠军联赛 决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711000000 +0800" stop="20260711000500 +0800">
+		<title lang="zh">欧洲乒乓球俱乐部冠军联赛决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711000500 +0800" stop="20260711010500 +0800">
+		<title lang="zh">2026年亚洲羽毛球锦标赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711010500 +0800" stop="20260711020500 +0800">
+		<title lang="zh">2026年艺术体操世界杯塔什干站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711020500 +0800" stop="20260711033000 +0800">
+		<title lang="zh">米兰科尔蒂纳冬奥会冰球男子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711033000 +0800" stop="20260711040000 +0800">
+		<title lang="zh">2026米兰科尔蒂纳冬奥会钢架雪车</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711040000 +0800" stop="20260711053000 +0800">
+		<title lang="zh">2026中国男篮热身赛长沙站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711053000 +0800" stop="20260711060000 +0800">
+		<title lang="zh">米兰科尔蒂纳冬奥会高山滑雪滑降</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711060000 +0800" stop="20260711073000 +0800">
+		<title lang="zh">米兰科尔蒂纳冬奥会花滑团体赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711073000 +0800" stop="20260711083000 +0800">
+		<title lang="zh">2026年全国举重锦标赛女子比赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711083000 +0800" stop="20260711090000 +0800">
+		<title lang="zh">国际篮联三人篮球世界杯男子决赛</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711090000 +0800" stop="20260711103000 +0800">
+		<title lang="zh">2026年世界田联钻石联赛巴黎站</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711103000 +0800" stop="20260711120000 +0800">
+		<title lang="zh">世界男排联赛:斯洛文尼亚-波兰</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711120000 +0800" stop="20260711121700 +0800">
+		<title lang="zh">艺术里的奥林匹克(44)</title>
+	</programme>
+	<programme channel="CCTV-16" start="20260711121700 +0800" stop="20260711134000 +0800">
+		<title lang="zh">2026世界杯1/8决赛:美国-比利时</title>
 	</programme>
 	<channel id="CETV1">
 		<display-name lang="zh">CETV1</display-name>
@@ -16497,9 +16944,6 @@
 	<programme channel="CETV2" start="20260709005000 +0800" stop="20260709013500 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
-	<programme channel="CETV2" start="20260709005000 +0800" stop="20260709013500 +0800">
-		<title lang="zh">纪录中国</title>
-	</programme>
 	<programme channel="CETV2" start="20260709013500 +0800" stop="20260709020500 +0800">
 		<title lang="zh">发现·中国</title>
 	</programme>
@@ -16575,6 +17019,9 @@
 	<programme channel="CETV2" start="20260709130000 +0800" stop="20260709134000 +0800">
 		<title lang="zh">墨香</title>
 	</programme>
+	<programme channel="CETV2" start="20260709130000 +0800" stop="20260709134000 +0800">
+		<title lang="zh">墨香</title>
+	</programme>
 	<programme channel="CETV2" start="20260709134000 +0800" stop="20260709141200 +0800">
 		<title lang="zh">影视公开课</title>
 	</programme>
@@ -16642,9 +17089,6 @@
 		<title lang="zh">节目结束</title>
 	</programme>
 	<programme channel="CETV2" start="20260710000000 +0800" stop="20260710005000 +0800">
-		<title lang="zh">纪录中国</title>
-	</programme>
-	<programme channel="CETV2" start="20260710005000 +0800" stop="20260710013500 +0800">
 		<title lang="zh">纪录中国</title>
 	</programme>
 	<programme channel="CETV2" start="20260710005000 +0800" stop="20260710013500 +0800">
@@ -16725,6 +17169,9 @@
 	<programme channel="CETV2" start="20260710130000 +0800" stop="20260710134000 +0800">
 		<title lang="zh">墨香</title>
 	</programme>
+	<programme channel="CETV2" start="20260710130000 +0800" stop="20260710134000 +0800">
+		<title lang="zh">墨香</title>
+	</programme>
 	<programme channel="CETV2" start="20260710134000 +0800" stop="20260710141200 +0800">
 		<title lang="zh">影视公开课</title>
 	</programme>
@@ -16796,6 +17243,78 @@
 	</programme>
 	<programme channel="CETV2" start="20260711005000 +0800" stop="20260711013500 +0800">
 		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV2" start="20260711013500 +0800" stop="20260711020500 +0800">
+		<title lang="zh">发现·中国</title>
+	</programme>
+	<programme channel="CETV2" start="20260711020500 +0800" stop="20260711024000 +0800">
+		<title lang="zh">发现·中国</title>
+	</programme>
+	<programme channel="CETV2" start="20260711024000 +0800" stop="20260711030500 +0800">
+		<title lang="zh">艺术素养公开课</title>
+	</programme>
+	<programme channel="CETV2" start="20260711030500 +0800" stop="20260711033000 +0800">
+		<title lang="zh">课本里的非遗</title>
+	</programme>
+	<programme channel="CETV2" start="20260711033000 +0800" stop="20260711041000 +0800">
+		<title lang="zh">村寨美丽中国</title>
+	</programme>
+	<programme channel="CETV2" start="20260711041000 +0800" stop="20260711044000 +0800">
+		<title lang="zh">村寨美丽中国</title>
+	</programme>
+	<programme channel="CETV2" start="20260711044000 +0800" stop="20260711053000 +0800">
+		<title lang="zh">纪录中国</title>
+	</programme>
+	<programme channel="CETV2" start="20260711053000 +0800" stop="20260711060100 +0800">
+		<title lang="zh">一堂好课</title>
+	</programme>
+	<programme channel="CETV2" start="20260711060100 +0800" stop="20260711063500 +0800">
+		<title lang="zh">发现·中国</title>
+	</programme>
+	<programme channel="CETV2" start="20260711063500 +0800" stop="20260711065500 +0800">
+		<title lang="zh">课本中的古诗文</title>
+	</programme>
+	<programme channel="CETV2" start="20260711065500 +0800" stop="20260711073000 +0800">
+		<title lang="zh">少年家国梦</title>
+	</programme>
+	<programme channel="CETV2" start="20260711073000 +0800" stop="20260711080000 +0800">
+		<title lang="zh">冠军说Ⅴ</title>
+	</programme>
+	<programme channel="CETV2" start="20260711080000 +0800" stop="20260711083000 +0800">
+		<title lang="zh">冠军说Ⅴ</title>
+	</programme>
+	<programme channel="CETV2" start="20260711083000 +0800" stop="20260711090000 +0800">
+		<title lang="zh">一堂好课Ⅱ</title>
+	</programme>
+	<programme channel="CETV2" start="20260711090000 +0800" stop="20260711093000 +0800">
+		<title lang="zh">一堂好课Ⅱ</title>
+	</programme>
+	<programme channel="CETV2" start="20260711093000 +0800" stop="20260711100000 +0800">
+		<title lang="zh">留学为你来</title>
+	</programme>
+	<programme channel="CETV2" start="20260711100000 +0800" stop="20260711103000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20260711103000 +0800" stop="20260711110000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20260711110000 +0800" stop="20260711113000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20260711113000 +0800" stop="20260711120000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20260711120000 +0800" stop="20260711123000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20260711123000 +0800" stop="20260711130000 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="CETV2" start="20260711130000 +0800" stop="20260711133000 +0800">
+		<title lang="zh">等着我</title>
+	</programme>
+	<programme channel="CETV2" start="20260711133000 +0800" stop="20260711140000 +0800">
+		<title lang="zh">美丽人生</title>
 	</programme>
 	<channel id="CHC家庭影院">
 		<display-name lang="zh">CHC家庭影院</display-name>
@@ -18321,6 +18840,87 @@
 	<programme channel="东方财经" start="20260711013000 +0800" stop="20260711015500 +0800">
 		<title lang="zh">创时代</title>
 	</programme>
+	<programme channel="东方财经" start="20260711015500 +0800" stop="20260711060100 +0800">
+		<title lang="zh">祝您晚安</title>
+	</programme>
+	<programme channel="东方财经" start="20260711060100 +0800" stop="20260711062600 +0800">
+		<title lang="zh">创赢未来</title>
+	</programme>
+	<programme channel="东方财经" start="20260711062600 +0800" stop="20260711065100 +0800">
+		<title lang="zh">创赢未来</title>
+	</programme>
+	<programme channel="东方财经" start="20260711065100 +0800" stop="20260711070000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260711070000 +0800" stop="20260711073000 +0800">
+		<title lang="zh">创时代</title>
+	</programme>
+	<programme channel="东方财经" start="20260711073000 +0800" stop="20260711075500 +0800">
+		<title lang="zh">中国经营者</title>
+	</programme>
+	<programme channel="东方财经" start="20260711075500 +0800" stop="20260711080000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260711080000 +0800" stop="20260711082600 +0800">
+		<title lang="zh">对话引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260711082600 +0800" stop="20260711083000 +0800">
+		<title lang="zh">科创之光文明同行</title>
+	</programme>
+	<programme channel="东方财经" start="20260711083000 +0800" stop="20260711090000 +0800">
+		<title lang="zh">几何书房</title>
+	</programme>
+	<programme channel="东方财经" start="20260711090000 +0800" stop="20260711091500 +0800">
+		<title lang="zh">文化访谈录</title>
+	</programme>
+	<programme channel="东方财经" start="20260711091500 +0800" stop="20260711093000 +0800">
+		<title lang="zh">文化访谈录</title>
+	</programme>
+	<programme channel="东方财经" start="20260711093000 +0800" stop="20260711093400 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260711093400 +0800" stop="20260711093800 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260711093800 +0800" stop="20260711094200 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260711094200 +0800" stop="20260711094600 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260711094600 +0800" stop="20260711095400 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260711095400 +0800" stop="20260711100000 +0800">
+		<title lang="zh">潮玩浦东</title>
+	</programme>
+	<programme channel="东方财经" start="20260711100000 +0800" stop="20260711103000 +0800">
+		<title lang="zh">浦东新脸谱</title>
+	</programme>
+	<programme channel="东方财经" start="20260711103000 +0800" stop="20260711110000 +0800">
+		<title lang="zh">中国经济论坛</title>
+	</programme>
+	<programme channel="东方财经" start="20260711110000 +0800" stop="20260711111500 +0800">
+		<title lang="zh">望江驿·遇见</title>
+	</programme>
+	<programme channel="东方财经" start="20260711111500 +0800" stop="20260711113000 +0800">
+		<title lang="zh">文化访谈录</title>
+	</programme>
+	<programme channel="东方财经" start="20260711113000 +0800" stop="20260711120000 +0800">
+		<title lang="zh">创时代</title>
+	</programme>
+	<programme channel="东方财经" start="20260711120000 +0800" stop="20260711122500 +0800">
+		<title lang="zh">创赢未来</title>
+	</programme>
+	<programme channel="东方财经" start="20260711122500 +0800" stop="20260711125500 +0800">
+		<title lang="zh">创赢未来</title>
+	</programme>
+	<programme channel="东方财经" start="20260711125500 +0800" stop="20260711130000 +0800">
+		<title lang="zh">直击引领区</title>
+	</programme>
+	<programme channel="东方财经" start="20260711130000 +0800" stop="20260711135000 +0800">
+		<title lang="zh">中国未来时</title>
+	</programme>
 	<channel id="优漫卡通">
 		<display-name lang="zh">优漫卡通</display-name>
 	</channel>
@@ -19094,6 +19694,45 @@
 	</programme>
 	<programme channel="优漫卡通" start="20260711010000 +0800" stop="20260711050000 +0800">
 		<title lang="zh">卡卡虎大冒险</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711050000 +0800" stop="20260711054000 +0800">
+		<title lang="zh">超凡小英雄</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711054000 +0800" stop="20260711060000 +0800">
+		<title lang="zh">猪猪侠竞速小英雄</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711060000 +0800" stop="20260711070000 +0800">
+		<title lang="zh">超级飞侠</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711070000 +0800" stop="20260711080000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸欢乐亲子营</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711080000 +0800" stop="20260711083000 +0800">
+		<title lang="zh">迷你特工队之最强恐龙</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711083000 +0800" stop="20260711090000 +0800">
+		<title lang="zh">奇妙萌可之闪耀流星</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711090000 +0800" stop="20260711094000 +0800">
+		<title lang="zh">超凡小英雄</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711094000 +0800" stop="20260711100000 +0800">
+		<title lang="zh">猪猪侠竞速小英雄</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711100000 +0800" stop="20260711110000 +0800">
+		<title lang="zh">超级飞侠</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711110000 +0800" stop="20260711120000 +0800">
+		<title lang="zh">新大头儿子和小头爸爸欢乐亲子营</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711120000 +0800" stop="20260711123000 +0800">
+		<title lang="zh">超级飞侠</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711123000 +0800" stop="20260711125500 +0800">
+		<title lang="zh">来玩吧</title>
+	</programme>
+	<programme channel="优漫卡通" start="20260711125500 +0800" stop="20260711135500 +0800">
+		<title lang="zh">萌鸡小队</title>
 	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
@@ -21498,6 +22137,138 @@
 	<programme channel="动漫秀场" start="20260710180000 +0800" stop="20260711000000 +0800">
 		<title lang="zh">三只松鼠之松鼠小镇(8)</title>
 	</programme>
+	<programme channel="动漫秀场" start="20260711000000 +0800" stop="20260711000600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711000600 +0800" stop="20260711001300 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711001300 +0800" stop="20260711001900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711001900 +0800" stop="20260711002500 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711002500 +0800" stop="20260711003200 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711003200 +0800" stop="20260711004500 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711004500 +0800" stop="20260711005700 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711005700 +0800" stop="20260711010700 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711010700 +0800" stop="20260711011700 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711011700 +0800" stop="20260711012700 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711012700 +0800" stop="20260711013700 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711013700 +0800" stop="20260711014700 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711014700 +0800" stop="20260711020100 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711020100 +0800" stop="20260711021600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711021600 +0800" stop="20260711023100 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711023100 +0800" stop="20260711024600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711024600 +0800" stop="20260711030700 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711030700 +0800" stop="20260711031900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711031900 +0800" stop="20260711033100 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711033100 +0800" stop="20260711034600 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711034600 +0800" stop="20260711040100 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711040100 +0800" stop="20260711040800 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711040800 +0800" stop="20260711041500 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711041500 +0800" stop="20260711042200 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711042200 +0800" stop="20260711042800 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711042800 +0800" stop="20260711043400 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711043400 +0800" stop="20260711044700 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711044700 +0800" stop="20260711050000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711050000 +0800" stop="20260711051000 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711051000 +0800" stop="20260711052000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711052000 +0800" stop="20260711053000 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711053000 +0800" stop="20260711053900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711053900 +0800" stop="20260711054900 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711054900 +0800" stop="20260711055900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711055900 +0800" stop="20260711061400 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711061400 +0800" stop="20260711062900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711062900 +0800" stop="20260711064400 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711064400 +0800" stop="20260711065900 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711065900 +0800" stop="20260711071100 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711071100 +0800" stop="20260711072300 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711072300 +0800" stop="20260711073500 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711073500 +0800" stop="20260711074700 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711074700 +0800" stop="20260711080100 +0800">
+		<title lang="zh">动画剧场</title>
+	</programme>
+	<programme channel="动漫秀场" start="20260711080100 +0800" stop="20260711080700 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
 	<channel id="安多卫视">
 		<display-name lang="zh">安多卫视</display-name>
 	</channel>
@@ -23127,6 +23898,93 @@
 	<programme channel="法治天地" start="20260711012000 +0800" stop="20260711014500 +0800">
 		<title lang="zh">案件聚焦</title>
 	</programme>
+	<programme channel="法治天地" start="20260711014500 +0800" stop="20260711022000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260711022000 +0800" stop="20260711024000 +0800">
+		<title lang="zh">律师界</title>
+	</programme>
+	<programme channel="法治天地" start="20260711024000 +0800" stop="20260711030500 +0800">
+		<title lang="zh">庭前庭后</title>
+	</programme>
+	<programme channel="法治天地" start="20260711030500 +0800" stop="20260711033000 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260711033000 +0800" stop="20260711035500 +0800">
+		<title lang="zh">律师界</title>
+	</programme>
+	<programme channel="法治天地" start="20260711035500 +0800" stop="20260711042000 +0800">
+		<title lang="zh">庭前庭后</title>
+	</programme>
+	<programme channel="法治天地" start="20260711042000 +0800" stop="20260711045000 +0800">
+		<title lang="zh">案件聚焦</title>
+	</programme>
+	<programme channel="法治天地" start="20260711045000 +0800" stop="20260711051000 +0800">
+		<title lang="zh">律师界</title>
+	</programme>
+	<programme channel="法治天地" start="20260711051000 +0800" stop="20260711053000 +0800">
+		<title lang="zh">庭前庭后</title>
+	</programme>
+	<programme channel="法治天地" start="20260711053000 +0800" stop="20260711060500 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260711060500 +0800" stop="20260711063000 +0800">
+		<title lang="zh">庭前庭后</title>
+	</programme>
+	<programme channel="法治天地" start="20260711063000 +0800" stop="20260711070000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260711070000 +0800" stop="20260711072500 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260711072500 +0800" stop="20260711073500 +0800">
+		<title lang="zh">庭前庭后</title>
+	</programme>
+	<programme channel="法治天地" start="20260711073500 +0800" stop="20260711080500 +0800">
+		<title lang="zh">案件聚焦</title>
+	</programme>
+	<programme channel="法治天地" start="20260711080500 +0800" stop="20260711083000 +0800">
+		<title lang="zh">律师界</title>
+	</programme>
+	<programme channel="法治天地" start="20260711083000 +0800" stop="20260711090500 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260711090500 +0800" stop="20260711093500 +0800">
+		<title lang="zh">案件聚焦</title>
+	</programme>
+	<programme channel="法治天地" start="20260711093500 +0800" stop="20260711100000 +0800">
+		<title lang="zh">庭前庭后</title>
+	</programme>
+	<programme channel="法治天地" start="20260711100000 +0800" stop="20260711102000 +0800">
+		<title lang="zh">律师界</title>
+	</programme>
+	<programme channel="法治天地" start="20260711102000 +0800" stop="20260711103000 +0800">
+		<title lang="zh">庭前庭后</title>
+	</programme>
+	<programme channel="法治天地" start="20260711103000 +0800" stop="20260711110000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260711110000 +0800" stop="20260711112000 +0800">
+		<title lang="zh">庭前庭后</title>
+	</programme>
+	<programme channel="法治天地" start="20260711112000 +0800" stop="20260711114000 +0800">
+		<title lang="zh">律师界</title>
+	</programme>
+	<programme channel="法治天地" start="20260711114000 +0800" stop="20260711120000 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
+	<programme channel="法治天地" start="20260711120000 +0800" stop="20260711123000 +0800">
+		<title lang="zh">和大律师面对面</title>
+	</programme>
+	<programme channel="法治天地" start="20260711123000 +0800" stop="20260711130000 +0800">
+		<title lang="zh">庭前庭后</title>
+	</programme>
+	<programme channel="法治天地" start="20260711130000 +0800" stop="20260711133000 +0800">
+		<title lang="zh">案件聚焦</title>
+	</programme>
+	<programme channel="法治天地" start="20260711133000 +0800" stop="20260711135500 +0800">
+		<title lang="zh">法治新闻</title>
+	</programme>
 	<channel id="海南卫视">
 		<display-name lang="zh">海南卫视</display-name>
 	</channel>
@@ -23523,16 +24381,13 @@
 	<programme channel="海南卫视" start="20260708232000 +0800" stop="20260709001500 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
-	<programme channel="海南卫视" start="20260709001500 +0800" stop="20260709023500 +0800">
+	<programme channel="海南卫视" start="20260709001800 +0800" stop="20260709023800 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260709001500 +0800" stop="20260709023500 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
-	<programme channel="海南卫视" start="20260709023500 +0800" stop="20260709030000 +0800">
+	<programme channel="海南卫视" start="20260709023800 +0800" stop="20260709030300 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
-	<programme channel="海南卫视" start="20260709030000 +0800" stop="20260709035000 +0800">
+	<programme channel="海南卫视" start="20260709030300 +0800" stop="20260709035000 +0800">
 		<title lang="zh">卫视高尔夫</title>
 	</programme>
 	<programme channel="海南卫视" start="20260709035000 +0800" stop="20260709040500 +0800">
@@ -23541,13 +24396,13 @@
 	<programme channel="海南卫视" start="20260709040500 +0800" stop="20260709042000 +0800">
 		<title lang="zh">全球国货之光</title>
 	</programme>
-	<programme channel="海南卫视" start="20260709042000 +0800" stop="20260709045600 +0800">
+	<programme channel="海南卫视" start="20260709042000 +0800" stop="20260709045900 +0800">
 		<title lang="zh">动漫剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260709045600 +0800" stop="20260709062500 +0800">
+	<programme channel="海南卫视" start="20260709045900 +0800" stop="20260709062800 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260709062500 +0800" stop="20260709070000 +0800">
+	<programme channel="海南卫视" start="20260709062800 +0800" stop="20260709070000 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
 	<programme channel="海南卫视" start="20260709070000 +0800" stop="20260709070100 +0800">
@@ -23555,6 +24410,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20260709070100 +0800" stop="20260709073300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260709073300 +0800" stop="20260709180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260709073300 +0800" stop="20260709180800 +0800">
 		<title lang="zh">阳光剧场</title>
@@ -23595,9 +24453,6 @@
 	<programme channel="海南卫视" start="20260710010300 +0800" stop="20260710024000 +0800">
 		<title lang="zh">凌晨剧场</title>
 	</programme>
-	<programme channel="海南卫视" start="20260710010300 +0800" stop="20260710024000 +0800">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
 	<programme channel="海南卫视" start="20260710024000 +0800" stop="20260710030300 +0800">
 		<title lang="zh">潮起海之南</title>
 	</programme>
@@ -23621,6 +24476,9 @@
 	</programme>
 	<programme channel="海南卫视" start="20260710070100 +0800" stop="20260710073300 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260710073300 +0800" stop="20260710180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<programme channel="海南卫视" start="20260710073300 +0800" stop="20260710180800 +0800">
 		<title lang="zh">阳光剧场</title>
@@ -23654,6 +24512,33 @@
 	</programme>
 	<programme channel="海南卫视" start="20260711001800 +0800" stop="20260711023800 +0800">
 		<title lang="zh">凌晨剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260711023800 +0800" stop="20260711030300 +0800">
+		<title lang="zh">步步为营</title>
+	</programme>
+	<programme channel="海南卫视" start="20260711030300 +0800" stop="20260711035000 +0800">
+		<title lang="zh">卫视高尔夫</title>
+	</programme>
+	<programme channel="海南卫视" start="20260711035000 +0800" stop="20260711042000 +0800">
+		<title lang="zh">全球国货之光</title>
+	</programme>
+	<programme channel="海南卫视" start="20260711042000 +0800" stop="20260711045900 +0800">
+		<title lang="zh">动漫剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260711045900 +0800" stop="20260711062800 +0800">
+		<title lang="zh">凌晨剧场</title>
+	</programme>
+	<programme channel="海南卫视" start="20260711062800 +0800" stop="20260711070000 +0800">
+		<title lang="zh">步步为营</title>
+	</programme>
+	<programme channel="海南卫视" start="20260711070000 +0800" stop="20260711070100 +0800">
+		<title lang="zh">中华人民共和国国歌</title>
+	</programme>
+	<programme channel="海南卫视" start="20260711070100 +0800" stop="20260711073300 +0800">
+		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="海南卫视" start="20260711073300 +0800" stop="20260711180800 +0800">
+		<title lang="zh">阳光剧场</title>
 	</programme>
 	<channel id="游戏风云">
 		<display-name lang="zh">游戏风云</display-name>
@@ -24601,6 +25486,69 @@
 		<title lang="zh">游戏大厅</title>
 	</programme>
 	<programme channel="游戏风云" start="20260711013000 +0800" stop="20260711014500 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711014500 +0800" stop="20260711020000 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711020000 +0800" stop="20260711040000 +0800">
+		<title lang="zh">巅峰赛场</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711040000 +0800" stop="20260711043000 +0800">
+		<title lang="zh">休闲街区</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711043000 +0800" stop="20260711050000 +0800">
+		<title lang="zh">休闲街区</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711050000 +0800" stop="20260711051500 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711051500 +0800" stop="20260711053000 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711053000 +0800" stop="20260711054500 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711054500 +0800" stop="20260711060000 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711060000 +0800" stop="20260711080000 +0800">
+		<title lang="zh">巅峰赛场</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711080000 +0800" stop="20260711083000 +0800">
+		<title lang="zh">休闲街区</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711083000 +0800" stop="20260711090000 +0800">
+		<title lang="zh">休闲街区</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711090000 +0800" stop="20260711091500 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711091500 +0800" stop="20260711093000 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711093000 +0800" stop="20260711094500 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711094500 +0800" stop="20260711100000 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711100000 +0800" stop="20260711120000 +0800">
+		<title lang="zh">巅峰赛场</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711120000 +0800" stop="20260711123000 +0800">
+		<title lang="zh">休闲街区</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711123000 +0800" stop="20260711130000 +0800">
+		<title lang="zh">休闲街区</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711130000 +0800" stop="20260711131500 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711131500 +0800" stop="20260711133000 +0800">
+		<title lang="zh">游戏大厅</title>
+	</programme>
+	<programme channel="游戏风云" start="20260711133000 +0800" stop="20260711134500 +0800">
 		<title lang="zh">游戏大厅</title>
 	</programme>
 	<channel id="都市剧场">
